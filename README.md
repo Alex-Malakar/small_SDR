@@ -23,8 +23,8 @@ A collection of Software Defined Radio experiments and signal processing project
 
 | Project | Hardware | Description |
 |---|---|---|
-| [FM Receiver](./fm-receiver/) | RTL-SDR v3 | WBFM broadcast receiver with audio output and spectrum display |
-| [RF Spectrum Analyzer](./spectral-disp/) | RTL-SDR v3 | Wideband spectrum analyzer with waterfall display|
+| [FM Receiver](./decode-fm.grc/) | RTL-SDR v3 | WBFM broadcast receiver with audio output and spectrum display |
+| [RF Spectrum Analyzer](./spectral-display.grc/) | RTL-SDR v3 | Wideband spectrum analyzer with waterfall display|
 
 ---
 
