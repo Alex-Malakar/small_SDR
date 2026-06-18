@@ -13,10 +13,10 @@ A collection of Software Defined Radio experiments and signal processing project
 
 ## Software
 
-- **GNU Radio** _ signal processing flowgraph environment
-- **Python** - custom block development and automation
-- **gr-osmosdr** - RTL-SDR hardware driver interface
-- **SDR Sharp Net8** - Spectral Analyzer for SDRs
+- **GNU Radio** -- signal processing flowgraph environment
+- **Python** -- custom block development and automation
+- **gr-osmosdr** -- RTL-SDR hardware driver interface
+- **SDR Sharp Net8** -- Spectral Analyzer for SDRs
 
 ---
 
